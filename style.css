@@ -9,5 +9,14 @@ header {
 }
 
 img {
-  image-orientation: center
+  text-align: center;
+}
+
+nav a {
+ padding: 10px;
+ background-color: black;
+}
+
+img caption {
+  font-size: 
 }
